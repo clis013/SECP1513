@@ -1,4 +1,5 @@
-# SECP1513 - Technology and Information System
+# SECP1513
+TECHNOLOGY AND INFORMATION SYSTEM
 ## Course Synopsis
 ....
 
